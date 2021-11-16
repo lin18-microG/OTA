@@ -1,3 +1,10 @@
+November 16th, 2021
+
+- Security string 2021-11-05
+- Bromite System Webview and Browser updated to 94.0.4606.109
+- Recovery will not be overwritten any more when flashing
+
+
 October 11th, 2021
 
 - Security string 2021-10-01
