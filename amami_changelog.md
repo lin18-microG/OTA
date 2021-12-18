@@ -1,3 +1,11 @@
+18.12.2021
+
+- ASB Security String 2021-12-01
+- Standard build only: System Webview on 96.0.4664.104 
+- microG build only: Bromite System Webview and Browser on 96.0.4664.54
+- microG build only: microG 0.22.214516-21
+
+
 15.11.2021
 
 - Security String 2021-11-05
