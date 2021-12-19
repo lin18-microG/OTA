@@ -1,3 +1,10 @@
+December 19th, 2021
+
+- Security String 2021-12-05
+- Bromite System Webview and Browser on 96.0.4664.54
+- microG 0.22.214516-21
+
+
 November 16th, 2021
 
 - Security string 2021-11-05
