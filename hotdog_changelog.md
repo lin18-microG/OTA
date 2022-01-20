@@ -1,3 +1,10 @@
+January 20th, 2022
+
+- Security string 2022-01-05
+- Some kernel patches
+- A couple of patches and fixes from LineageOS
+
+
 December 19th, 2021
 
 - Security String 2021-12-05
