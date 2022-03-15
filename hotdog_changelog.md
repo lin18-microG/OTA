@@ -1,3 +1,17 @@
+March 15th, 20220
+
+- Bromite Browser and Webview on 99.0.4844.58 (bugfix build)
+
+
+March 11th, 2022
+
+- Security string 2022-03-05
+- Some kernel patches
+- Bromite Browser and Webview on 99.0.4844.55
+- microG 0.2.24.214816-2
+- AuroraStore 4.1.1
+
+
 January 20th, 2022
 
 - Security string 2022-01-05
