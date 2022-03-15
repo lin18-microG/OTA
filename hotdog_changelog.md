@@ -1,4 +1,4 @@
-March 15th, 20220
+March 15th, 2022
 
 - Bromite Browser and Webview on 99.0.4844.58 (bugfix build)
 
