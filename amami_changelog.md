@@ -1,3 +1,13 @@
+15.03.2022
+
+- Security string 2022-03-05
+- Many kernel patches
+- standard build only: System Webview on 98.0.4758.101
+- microG build only: Bromite Browser and Webview on 99.0.4844.58
+- microG build only: microG 0.2.24.214816-2
+- microG build only: AuroraStore 4.1.1
+
+
 22.01.2022
 
 - ASB Security String 2021-12-01
