@@ -1,3 +1,10 @@
+April 11th, 2022
+
+- Security string 2022-04-05
+- Some kernel patches
+- Bromite Browser and Webview on 100.0.4896.57
+
+
 March 15th, 2022
 
 - Bromite Browser and Webview on 99.0.4844.58 (bugfix build)
