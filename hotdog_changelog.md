@@ -1,3 +1,12 @@
+May 7th, 2022
+
+- Security string 2022-05-05
+- Some kernel patches
+- Bromite Browser and Webview on 101.0.4951.53
+- microG updated to 0.2.24.214816-10
+- Mozilla Location provider on 1.15
+
+
 April 11th, 2022
 
 - Security string 2022-04-05
