@@ -4,7 +4,7 @@ May 7th, 2022
 - Some kernel patches
 - Bromite Browser and Webview on 101.0.4951.53
 - microG updated to 0.2.24.214816-10
-- Mozilla Location provider on 1.15
+- Mozilla Location provider on 1.5.0
 
 
 April 11th, 2022
