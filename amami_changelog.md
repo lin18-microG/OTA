@@ -1,7 +1,15 @@
+14.06.2022
+
+- Security string 2022-06-05
+- standard build only: System Webview 102.0.5005.78
+- microG build only: Bromite Browser and Webview on 102.0.5005.96
+- microG build only: microG updated to 0.2.24.214816-11
+
+
 09.05.2022
 
 - Security string 2022-05-05
-- standard buld only: 100.0.4896.127
+- standard buld only: System Webview 100.0.4896.127
 - microG build only: Bromite Browser and Webview on 101.0.4951.53
 - microG build only: microG updated to 0.2.24.214816-10
 - microG build only: Mozilla Location provider on 1.5.0
