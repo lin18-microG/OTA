@@ -1,3 +1,9 @@
+July 14th, 2022
+
+- Security string 2022-06-05
+- Some kernel patches
+
+
 June 15th, 2022
 
 - Security string 2022-06-05

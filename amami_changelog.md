@@ -1,3 +1,7 @@
+14.07.2022
+- Security string 2022-07-05
+
+
 14.06.2022
 
 - Security string 2022-06-05
