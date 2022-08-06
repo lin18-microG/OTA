@@ -1,3 +1,10 @@
+August 6th, 2022
+
+- Security string 2022-08-05
+- Bromite Browser and Webview updated to 103.0.5060.140
+- Some kernel patches
+
+
 July 14th, 2022
 
 - Security string 2022-06-05
