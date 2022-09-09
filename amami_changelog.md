@@ -6,6 +6,7 @@
 - microG build only: Bromite Browser and Webview on 104.0.5112.91
 - microG build only: microG updated to 0.2.24.214816-30
 - microG build only: Contacts app slightly 'de-Googled'
+- microG build only: Performance improvement (exec spawning OFF by default)
 
 
 06.08.2022
