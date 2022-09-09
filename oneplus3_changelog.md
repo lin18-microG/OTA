@@ -1,3 +1,12 @@
+September 9th, 2022
+
+- Security string 2022-09-05
+- Bromite Browser and Webview updated to 104.0.5112.91
+- Kernel: Some patches and also hardening (GrpaheneOS patches)
+- microG 0.2.24.214816-30
+- Contacts app slightly 'de-Googled'
+
+
 August 6th, 2022
 
 - Security string 2022-08-05

@@ -1,3 +1,13 @@
+09.09.2022
+
+- Security string 2022-09-05
+- Many kernel pathces applied
+- standard build only: System Webview 105.0.5195.68
+- microG build only: Bromite Browser and Webview on 104.0.5112.91
+- microG build only: microG updated to 0.2.24.214816-30
+- microG build only: Contacts app slightly 'de-Googled'
+
+
 06.08.2022
 
 - Security string 2022-08-05
