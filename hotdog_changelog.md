@@ -1,3 +1,11 @@
+October 6th, 2022
+
+- Security string 2022-10-05
+- Bromite Browser and Webview updated to 105.0.5195.147
+- Some kernel patches 
+- microG 0.2.24.223616-61 
+
+
 September 9th, 2022
 
 - Security string 2022-09-05
@@ -6,6 +14,7 @@ September 9th, 2022
 - microG 0.2.24.214816-30
 - Contacts app slightly 'de-Googled'
 - Updated vendor blobs from OOS 11.0.9.1 (vendor sec. string 2022-06-01)
+
 
 August 6th, 2022
 
