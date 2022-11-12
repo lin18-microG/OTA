@@ -1,3 +1,11 @@
+November 12th, 2022
+
+- Security string 2022-11-05
+- Bromite Browser and Webview updated to 106.0.5249.163
+- Some kernel patches
+- microG 0.2.25.223616-10
+
+
 October 6th, 2022
 
 - Security string 2022-10-05
