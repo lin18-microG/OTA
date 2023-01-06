@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1670795732,
-      "filename": "lineage-18.1-20221211-UNOFFICIAL-microG-signed-hotdog.zip",
-      "id": "6fbe1df27d9c07d5b0ac02b33db0a589688ab898",
+      "datetime": 1673024730,
+      "filename": "lineage-18.1-20230106-UNOFFICIAL-microG-signed-hotdog.zip",
+      "id": "887d6d80150a6a70f6645915932c8e3fab656db5",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 1034144872,
-      "url": "https://sourceforge.net/projects/lin18-microg/files/hotdog/lineage-18.1-20221211-UNOFFICIAL-microG-signed-hotdog.zip/download",
+      "size": 1034318003,
+      "url": "https://sourceforge.net/projects/lin18-microg/files/hotdog/lineage-18.1-20230106-UNOFFICIAL-microG-signed-hotdog.zip/download",
       "version": "18.1"
     }
   ]
