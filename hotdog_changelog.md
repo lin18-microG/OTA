@@ -1,3 +1,9 @@
+January 06th, 2023 - FINAL build
+
+- Security string 2023-01-01
+- microG 0.2.26.223616-16
+
+
 December 12th, 2022
 
 - Security string 2022-12-05
