@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1670536524,
-      "filename": "lineage-18.1-20221208-UNOFFICIAL-microG-signed-oneplus3.zip",
-      "id": "ffa649d7315ae5b8b7572dfe5299b9ef25f8a10f",
+      "datetime": 1673018618,
+      "filename": "lineage-18.1-20230106-UNOFFICIAL-microG-signed-oneplus3.zip",
+      "id": "dc8180f483c22ee24cfe85b0c3b1aa070ab93019",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 1025749981,
-      "url": "https://sourceforge.net/projects/lin18-microg/files/oneplus3/lineage-18.1-20221208-UNOFFICIAL-microG-signed-oneplus3.zip/download",
+      "size": 1026029895,
+      "url": "https://sourceforge.net/projects/lin18-microg/files/oneplus3/lineage-18.1-20230106-UNOFFICIAL-microG-signed-oneplus3.zip/download",
       "version": "18.1"
     }
   ]
