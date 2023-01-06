@@ -1,3 +1,10 @@
+January 06th, 2023
+
+- Security string 2023-01-05
+- Some kernel patches
+- microG 0.2.26.223616-16
+
+
 December 11th, 2022
 
 - Security string 2022-12-05
