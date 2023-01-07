@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1670790736,
-      "filename": "lineage-18.1-20221211-UNOFFICIAL-signed-amami.zip",
-      "id": "ecbbff6d2b30ad62e47da456f283566fbb5d08ea",
+      "datetime": 1673093349,
+      "filename": "lineage-18.1-20230107-UNOFFICIAL-signed-amami.zip",
+      "id": "a9bede694be8796db9b1152cc9545c1c33549cd7",
       "romtype": "UNOFFICIAL-signed",
-      "size": 535482544,
-      "url": "https://sourceforge.net/projects/lin18/files/amami/LineageOS_18_signed/lineage-18.1-20221211-UNOFFICIAL-signed-amami.zip/download",
+      "size": 535456354,
+      "url": "https://sourceforge.net/projects/lin18/files/amami/LineageOS_18_signed/lineage-18.1-20230107-UNOFFICIAL-signed-amami.zip/download",
       "version": "18.1"
     }
   ]
