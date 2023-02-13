@@ -1,3 +1,11 @@
+06.01.2023
+
+- Security string 2023-01-05
+- standard build only:System Webview 108.0.5359.128
+- microG build only: Bromite Browser and Webview on 108.0.5359.156
+- microG build only: microG updated to 0.2.26.223616-16
+
+
 11.12.2022
 
 - Security string 2022-12-05
