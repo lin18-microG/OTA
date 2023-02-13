@@ -1,6 +1,7 @@
 January 06th, 2023 - FINAL build
 
 - Security string 2023-01-01
+- Bromite Browser and Webview updated to 108.0.5359.156
 - microG 0.2.26.223616-16
 
 

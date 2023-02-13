@@ -9,6 +9,7 @@ February 13th, 2023
 January 06th, 2023
 
 - Security string 2023-01-05
+- Bromite Browser and Webview updated to 108.0.5359.156
 - Some kernel patches
 - microG 0.2.26.223616-16
 
