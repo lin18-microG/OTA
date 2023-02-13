@@ -1,3 +1,11 @@
+February 13th, 2023
+
+- Security string 2023-01-05
+- Some kernel patches
+- microG 0.2.27.223616-3
+- Spoof apps installed by G*PlayStore
+
+
 January 06th, 2023
 
 - Security string 2023-01-05
