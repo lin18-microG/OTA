@@ -1,3 +1,11 @@
+18.02.2023
+
+- Security string 2023-02-05
+- standard build only:System Webview 109.0.5414.118
+- microG build only: microG updated to 0.2.27.223616-3
+- microG build only: Spoof apps installed by G*PlayStore
+
+
 06.01.2023
 
 - Security string 2023-01-05
