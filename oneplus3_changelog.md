@@ -1,3 +1,10 @@
+March 19th, 2023
+
+- Security string 2023-03-05
+- Some kernel patches
+- Bromite Webview replaced by Mulch Webview 111.0.5563.58
+
+
 February 13th, 2023
 
 - Security string 2023-01-05
