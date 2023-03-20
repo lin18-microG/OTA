@@ -1,3 +1,10 @@
+20.03.2023
+
+- Security string 2023-03-05
+- standard build only:System Webview 111.0.5563.58
+- microG build only: Bromite Webview replaced by Mulch 111.0.5563.58
+
+
 18.02.2023
 
 - Security string 2023-02-05
