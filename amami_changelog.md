@@ -1,3 +1,13 @@
+09.06.2023
+
+- Security string 2023-06-05
+- standard build only:System Webview 114.0.5735.58
+- microG build only: Mulch Webview 114.0.5735.61
+- microG build only: microG updated to 0.2.28.231657-5
+- microG build only: FakeStore updated to 0.2.0
+- microG build only: AuroraStore updated to 4.2.3
+
+
 09.05.2023
 
 - Security string 2023-05-05
