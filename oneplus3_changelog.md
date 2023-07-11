@@ -1,3 +1,11 @@
+July 9th, 2023 
+
+- ASB Security string 2023-07-05
+- Some kernel patches
+- Mulch Webview 114.0.5735.196
+- microG 0.2.28.231657 - "Original" included now
+
+
 June 8th, 2023
 
 - ASB Security string 2023-06-05
