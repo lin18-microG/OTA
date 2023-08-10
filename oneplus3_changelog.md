@@ -2,7 +2,7 @@ August 10th, 2023
 
 - ASB Security string 2023-08-05
 - Some kernel patches
-- Mulch Webview 114.0.5735.196
+- Mulch Webview 115.0.5790.136
 
 
 July 9th, 2023 
