@@ -1,3 +1,10 @@
+15.08.2023
+
+- Security string 2023-08-05
+- standard build only:System Webview 115.0.5790.166 
+- microG build only: Mulch Webview 116.0.5845.78
+
+
 11.07.2023
 
 - Security string 2023-07-05
