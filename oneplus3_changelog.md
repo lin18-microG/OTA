@@ -1,3 +1,13 @@
+September 13th, 2023
+
+- ASB Security string 2023-09-05
+- Some kernel patches
+- Slightly hardened GPS config
+- Updated CA certificates
+- AuroraStore 4.3.1
+- Mulch Webview 117.0.5938.60
+
+
 August 10th, 2023
 
 - ASB Security string 2023-08-05
