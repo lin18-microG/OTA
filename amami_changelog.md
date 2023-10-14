@@ -1,3 +1,12 @@
+14.10.2023
+
+- ASB Security string 2023-10-05
+- Fixes for CVE-2023-4863 and CVE-2023-5217
+- standard build only: System Webview 117.0.5938.140
+- microG build only: Mulch Webview 118.0.5993.65
+- microG build only: AuroraStore 4.3.2
+
+
 14.09.2023
 
 - ASB Security string 2023-09-05
