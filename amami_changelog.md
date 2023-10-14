@@ -1,3 +1,14 @@
+14.09.2023
+
+- ASB Security string 2023-09-05
+- Kernel security patches applied
+- standard build only: System Webview 116.0.5845.163
+- microG build only: Mulch Webview 117.0.5938.60
+- microG build only: Slightly hardened GPS config
+- microG build only: Updated CA certificates
+- microG build only: AuroraStore 4.3.1
+
+
 15.08.2023
 
 - Security string 2023-08-05
