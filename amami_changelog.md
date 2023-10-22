@@ -4,6 +4,7 @@
 - Fixes for CVE-2023-4863 and CVE-2023-5217
 - standard build only: System Webview 117.0.5938.140
 - microG build only: Mulch Webview 118.0.5993.65
+- microG build only: microG 0.2.29.233013
 - microG build only: AuroraStore 4.3.2
 
 

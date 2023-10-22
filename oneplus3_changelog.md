@@ -4,6 +4,7 @@ October 2023
 - Some kernel patches
 - AuroraStore 4.3.2
 - Fixes for CVE-2023-4863 and CVE-2023-5217
+- microG 0.2.29.233013
 - Mulch System Webview 118.0.5993.65
 
 
