@@ -1,3 +1,12 @@
+November 2023
+
+- ASB Security string 2023-11-05
+- Some kernel patches
+- AuroraStore 4.3.5
+- microG and companion (aka Fakestore) 0.3.0.233515
+- Mulch System Webview 119.0.6045.134
+
+
 October 2023
 
 - ASB Security string 2023-10-05
