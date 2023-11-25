@@ -1,3 +1,11 @@
+25.11.2023
+
+- ASB Security string 2023-11-05
+- standard build only: System Webview 118.0.5993.111
+- microG build only: Mulch Webview 119.0.6045.134
+- microG build only: microG and companion 0.3.0.233515
+
+
 14.10.2023
 
 - ASB Security string 2023-10-05
