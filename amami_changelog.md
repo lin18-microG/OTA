@@ -1,3 +1,10 @@
+12.01.2024
+
+- ASB Security string 2024-01-05
+- standard build only: System Webview 120.0.6099.144
+- microG build only: Mulch Webview 120.0.6099.193
+
+
 18.12.2023
 
 - ASB Security string 2023-12-05
