@@ -1,3 +1,11 @@
+13.02.2024
+
+- ASB Security string 2024-02-05
+- standard build only: System Webview 121.0.6167.101
+- microG build only: Mulch Webview 121.0.6167.164
+- microG build only: AuroraStore 4.4.1
+
+
 12.01.2024
 
 - ASB Security string 2024-01-05
