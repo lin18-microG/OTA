@@ -1,3 +1,9 @@
+10.03.2024
+
+- Custom build release 2024-03-01
+- standard build only: System Webview 122.0.6261.90
+- microG build only: Mulch Webview 122.0.6261.105
+
 13.02.2024
 
 - ASB Security string 2024-02-05
