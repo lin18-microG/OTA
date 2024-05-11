@@ -1,3 +1,11 @@
+11.05.2024
+
+- Custom build release 2024-05-01
+- Kernel patches
+- standard build only: System Webview 124.0.6367.82
+- microG build only: Mulch Webview 125.0.6422.35
+
+
 10.04.2024
 
 - Custom build release 2024-04-01
