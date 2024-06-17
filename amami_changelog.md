@@ -1,3 +1,14 @@
+17.06.2024
+
+- Custom build release 2024-06-01
+- Many kernel patches
+- standard build only: System webview 125.0.6422.165 
+- microG build only: Mulch Webview 126.0.6478.71
+- microG build only: GmsCore & companion v0.3.2.240913
+- microG build only: AuroraStore 4.4.4
+- microG build only: AuroraDroid (deprecated) replaced with F-Droid 1.19.1
+
+
 11.05.2024
 
 - Custom build release 2024-05-01
