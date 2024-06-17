@@ -1,3 +1,13 @@
+June 2024
+
+- Custom build release 2024-06-01
+- Mulch System Webview 126.0.6478.71
+- Many kernel patches
+- GmsCore & companion v0.3.2.240913
+- AuroraStore 4.4.4
+- AuroraDroid (deprecated) replaced with F-Droid 1.19.1
+
+
 May 2024
 
 - Custom build release 2024-05-01
