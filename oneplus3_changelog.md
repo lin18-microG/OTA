@@ -1,3 +1,11 @@
+July 2024
+
+- Sec. string 2024-07-05
+- Mulch System Webview 126.0.6478.122
+- Many kernel patches
+- AuroraStore 4.5.1
+
+
 June 2024
 
 - Custom build release 2024-06-01
