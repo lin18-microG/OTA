@@ -1,3 +1,11 @@
+17.07.2024
+
+- Custom build release 2024-07-01
+- Some kernel patches
+- microG build only: Mulch System Webview 126.0.6478.122
+- microG build only: AuroraStore 4.5.1
+
+
 17.06.2024
 
 - Custom build release 2024-06-01
