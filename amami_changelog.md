@@ -1,3 +1,9 @@
+16.08.2024
+
+- Custom build release 2024-08-01
+- microG build only: Mulch System Webview 127.0.6533.103
+
+
 17.07.2024
 
 - Custom build release 2024-07-01
