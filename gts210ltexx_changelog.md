@@ -1,3 +1,10 @@
+August 16th, 2024
+
+- Custom build release 2024-08-01
+- Some kernel patches
+- Mulch system webview 127.0.6533.103
+
+
 July 17th, 2024
 
 - Custom build release 2024-07-01
