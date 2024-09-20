@@ -1,3 +1,12 @@
+20.09.2024
+
+- Custom build release 2024-09-01
+- Expat: Fixes for CVE-2024-28757, CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+- standard build only: System webview 128.0.6613.88
+- microG build only: Mulch System Webview 128.0.6613.146
+- microG build only: AuroraStore 4.6.0
+
+
 16.08.2024
 
 - Custom build release 2024-08-01
