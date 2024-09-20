@@ -1,3 +1,12 @@
+September 2024
+
+- Custom build release 2024-09-01
+- Mulch System Webview 128.0.6613.146
+- Some kernel patches
+- AuroraStore 4.6.0
+- Expat: Fixes for CVE-2024-28757, CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+
+
 August 2024
 
 - Custom build release 2024-08-01
