@@ -1,3 +1,10 @@
+15.10.2024
+
+- Custom build release 2024-10-01
+- standard build only: System webview 129.0.6668.70
+- microG build only: Mulch System Webview 129.0.6668.100
+
+
 20.09.2024
 
 - Custom build release 2024-09-01

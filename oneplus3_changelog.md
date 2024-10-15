@@ -1,3 +1,10 @@
+October 2024
+
+- Custom build release 2024-10-01
+- Mulch System Webview 129.0.6668.100
+- Some kernel patches
+
+
 September 2024
 
 - Custom build release 2024-09-01
