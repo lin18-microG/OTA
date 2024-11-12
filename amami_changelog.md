@@ -1,3 +1,12 @@
+12.11.2024
+
+- Custom build release 2024-11-01
+- standard build only: System webview 130.0.6723.73
+- microG build only: Mulch System Webview 130.0.6723.102
+- microG build only: AuroraStore 4.6.2
+- microG build only: F-Droid 1.20.1 (back to original APK)
+
+
 15.10.2024
 
 - Custom build release 2024-10-01
