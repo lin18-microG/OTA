@@ -1,3 +1,13 @@
+November 13th, 2024
+
+- Custom build release 2024-11-01
+- Mulch system webview 131.0.6778.39
+- Some kernel patches
+- AuroraStore 4.6.2
+- F-Droid 1.20.1 (back to original APK)
+- Fixed auto-brightness
+
+
 October 15th, 2024
 
 - Custom build release 2024-10-01
