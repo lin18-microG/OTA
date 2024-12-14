@@ -1,3 +1,13 @@
+December 2024
+
+- Custom build release 2024-12-01
+- Mulch System Webview 131.0.6778.135
+- Kernel patches
+- microG & companion v0.3.5.240913
+- Updated signature spoofing patch
+- F-Droid 1.21.1
+
+
 November 2024
 
 - Custom build release 2024-11-01
