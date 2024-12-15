@@ -2,7 +2,7 @@
 
 - Custom build release 2024-12-01
 - Many kernel patches
-- standard build only: System webview 130.0.6723.81
+- standard build only: System webview 131.0.6778.81
 - microG build only: Mulch System Webview 130.0.6723.135
 - microG build only: microG & companion v0.3.5.240913
 - microG build only: Updated signature spoofing patch
