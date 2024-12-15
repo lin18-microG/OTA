@@ -1,3 +1,14 @@
+15.12.2024
+
+- Custom build release 2024-12-01
+- Many kernel patches
+- standard build only: System webview 130.0.6723.81
+- microG build only: Mulch System Webview 130.0.6723.135
+- microG build only: microG & companion v0.3.5.240913
+- microG build only: Updated signature spoofing patch
+- microG build only: F-Droid 1.21.1
+
+
 12.11.2024
 
 - Custom build release 2024-11-01
