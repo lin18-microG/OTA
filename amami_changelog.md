@@ -1,3 +1,12 @@
+16.01.2025
+
+- Custom build release 2025-01-01
+- Fix of audio/video recording bug
+- microG build only: AXP.OS System Webview 131.0.6778.260
+- microG build only: microG & companion v0.3.6.244735
+- microG build only: AuroraStore 4.6.4
+
+
 15.12.2024
 
 - Custom build release 2024-12-01
