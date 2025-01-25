@@ -1,3 +1,11 @@
+January 2025
+
+- Custom build release 2025-01-01
+- AXP.OS System Webview 131.0.6778.260
+- microG & companion v0.3.6.244735
+- AuroraStore 4.6.4
+
+
 December 2024
 
 - Custom build release 2024-12-01
