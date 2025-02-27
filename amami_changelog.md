@@ -1,3 +1,10 @@
+27.02.2025
+
+- Custom build release 2025-02-01
+- standard build only: System Webview 132.0.6834.122
+- microG build only: AOSmium System Webview 133.0.6943.49
+
+
 16.01.2025
 
 - Custom build release 2025-01-01
