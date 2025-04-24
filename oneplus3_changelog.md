@@ -2,6 +2,7 @@ April 2025
 
 - Custom build release 2025-04-01
 - AOSmium Webview 133.0.6943.121
+- AuroraStore 4.7.0
 
 
 March 2025

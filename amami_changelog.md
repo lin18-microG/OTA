@@ -1,6 +1,7 @@
 22.04.2025
 
 - Custom build release 2025-04-01
+- microG build only: AuroraStore 4.7.0
 
 
 09.03.2025
