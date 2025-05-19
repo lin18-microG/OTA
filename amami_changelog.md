@@ -1,3 +1,12 @@
+19.05.2025
+
+- Custom build release 2025-05-01
+- Timezone data update for 2025
+- standard build only: System Webview 135.0.7049.100
+- microG build only: AOSmium Webview 135.0.7049.100
+- microG build only: microG & companion 0.3.7.250932
+
+
 22.04.2025
 
 - Custom build release 2025-04-01
