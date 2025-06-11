@@ -1,3 +1,9 @@
+11.06.2025
+
+- Custom build release 2025-06-01
+- microG build only: AOSmium Webview 137.0.7151.72
+
+
 19.05.2025
 
 - Custom build release 2025-05-01
