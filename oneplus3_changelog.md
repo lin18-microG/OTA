@@ -1,3 +1,17 @@
+August 2025
+
+- Custom build release 2025-08-01
+- AOSmium System Webview 138.0.7204.168
+- AuroraStore 4.7.4
+- F-Droid 1.23.0
+- microG GmcCore & companion v0.3.9.250932
+
+
+July 2025
+
+- No new build
+
+
 June 2025
 
 - Custom build release 2025-06-01
