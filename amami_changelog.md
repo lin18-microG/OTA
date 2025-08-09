@@ -1,3 +1,13 @@
+09.08.2025
+
+- Custom build release 2025-08-01
+- Standard build only: System Webview 138.0.7204.63
+- microG build only: AOSmium System Webview 138.0.7204.168
+- microG build only: AuroraStore 4.7.4
+- microG build only: F-Droid 1.23.0
+- microG build only: GmsCore & companion v0.3.9.250932
+
+
 11.06.2025
 
 - Custom build release 2025-06-01
