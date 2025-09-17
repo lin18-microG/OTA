@@ -1,3 +1,11 @@
+17.09.2025
+
+- Custom build release 2025-09-01
+- Standard build only: System Webview 139.0.7258.143
+- microG build only: AOSmium System Webview 139.0.7258.62
+- microG build only: AuroraStore 4.7.5
+
+
 09.08.2025
 
 - Custom build release 2025-08-01
