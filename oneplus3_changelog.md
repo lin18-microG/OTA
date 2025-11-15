@@ -1,3 +1,17 @@
+November 2025
+
+- Custom build release 2025-11-01
+- AOSmium System Webview 142.0.7444.48
+- microG GmsCore & companion v0.3.10.250932
+
+
+September 2025
+
+- Custom build release 2025-09-01
+- AOSmium System Webview 139.0.7258.62
+- AuroraStore 4.7.5
+
+
 August 2025
 
 - Custom build release 2025-08-01
