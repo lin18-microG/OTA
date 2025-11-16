@@ -1,3 +1,11 @@
+16.11.2025
+
+- Custom build release 2025-11-01
+- Standard build only: Android System Webview 142.0.7444.138
+- microG build only: AOSmium System Webview 142.0.7444.48
+- microG build only: microG GmsCore & companion v0.3.10.250932
+
+
 17.09.2025
 
 - Custom build release 2025-09-01
