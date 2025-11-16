@@ -1,3 +1,10 @@
+November 16th, 2025
+
+- Custom build release 2025-11-01
+- AOSmium System Webview 142.0.7444.48
+- microG GmsCore & companion v0.3.10.250932
+
+
 September 17th, 2025
 
 - Custom build release 2025-09-01
