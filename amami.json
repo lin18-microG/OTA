@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1766348322,
-      "filename": "lineage-18.1-20251221-UNOFFICIAL-microG-signed-amami.zip",
-      "id": "203e2f09f39a32f740e6858ee7a81420178d0c4f",
+      "datetime": 1774477347,
+      "filename": "lineage-18.1-20260325-UNOFFICIAL-microG-signed-amami.zip",
+      "id": "c372146d2a70f12e91a64293c1deeb27d43fc528",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 855484253,
-      "url": "https://sourceforge.net/projects/lin18/files/amami/LineageOS_18_signed/lineage-18.1-20251221-UNOFFICIAL-microG-signed-amami.zip/download",
+      "size": 860284215,
+      "url": "https://sourceforge.net/projects/lin18/files/amami/LineageOS_18_signed/lineage-18.1-20260325-UNOFFICIAL-microG-signed-amami.zip/download",
       "version": "18.1"
     }
   ]
