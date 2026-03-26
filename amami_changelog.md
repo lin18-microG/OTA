@@ -1,3 +1,13 @@
+26.03.2026
+
+- Custom build release 2026-03-01
+- Timezone data 2025 update
+- Standard build only: Android System Webview 146.0.7680.153
+- microG build only: AOSmium System Webview 146.0.7680.119
+- microG build only: AuroraStore 4.8.1
+- microG build only: microG GmsCore & companion v0.3.13.250932
+
+
 22.12.2025
 
 - Custom build release 2025-12-01
