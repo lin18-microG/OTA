@@ -1,3 +1,12 @@
+April 2026
+
+- Custom build release 2026-04-01
+- AOSmium System Webview 147.0.7727.49
+- microG GmsCore & companion v0.3.14.250932
+- Fix of a microG companion regression
+- Various addl. patches from previous ASBs
+
+
 March 2026
 
 - Custom build release 2026-03-01
